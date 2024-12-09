@@ -1,0 +1,5 @@
+.collection li img{width:auto;max-width:100%;display:block;margin:0 auto}
+.newshead h1{width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.izhuanti li .full-image{max-width:100%;height:254px;position:relative;text-align: center;}
+.izhuanti li .full-image img{max-width:100%;max-height:100%;display:block;margin:auto}
+.huodong li a{float:unset;width:auto}
